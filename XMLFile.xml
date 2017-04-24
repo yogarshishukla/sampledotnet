@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<products>
+  
+  <product>
+    <prod_name>MackBook</prod_name>
+    <prod_desc>product description</prod_desc>
+    <prod_id>1</prod_id>
+    <prod_price>44.33</prod_price>
+  </product>
+
+  <product>
+    <prod_name>IMac</prod_name>
+    <prod_desc>product description</prod_desc>
+    <prod_id>2</prod_id>    
+    <prod_price>33.04</prod_price>
+  </product>
+
+  <product>
+    <prod_name>IPad2 16GB</prod_name>
+    <prod_desc>product description</prod_desc>
+    <prod_id>3</prod_id>    
+    <prod_price>700.00</prod_price>
+  </product>
+
+  <product>
+    <prod_name>IPod 8GB</prod_name>
+    <prod_desc>product description</prod_desc>
+    <prod_id>4</prod_id>    
+    <prod_price>150.22</prod_price>
+  </product>
+
+  <product>
+    <prod_name>Iphone4 32GB</prod_name>
+    <prod_desc>White</prod_desc>
+    <prod_id>5</prod_id>    
+    <prod_price>500.00</prod_price>
+  </product>
+  
+</products>
